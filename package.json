@@ -4,5 +4,8 @@
   "description": "GWT flow handler, useful for testing",
   "main": "index.js",
   "author": "Aidan O",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
 }
