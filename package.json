@@ -2,10 +2,13 @@
   "name": "ts-gwt-test-handler",
   "version": "1.0.0",
   "description": "GWT flow handler, useful for testing",
-  "main": "index.js",
+  "main": "dist/index.js",
   "author": "Aidan O",
   "license": "MIT",
   "devDependencies": {
     "typescript": "^4.0.3"
+  },
+  "dependencies": {
+    "auto-bind": "^4.0.0"
   }
 }
